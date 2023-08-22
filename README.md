@@ -1,2 +1,2 @@
 # Starting-Out-With-Python-Second-Edition
-This project will contains all the exercise from the Starting Out With  Python Second Edition book by Tony Graddis
+This project will include all exercises in the book Starting Out With Python Second Edition by Tony Gaddis.
