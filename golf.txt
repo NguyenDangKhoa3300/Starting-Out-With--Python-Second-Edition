@@ -1,0 +1,7 @@
+PLAYER NAME	SCORES
+---------------------------
+Khoa		922
+Phong		343
+Vu		342
+Yen		444
+Nam		565
